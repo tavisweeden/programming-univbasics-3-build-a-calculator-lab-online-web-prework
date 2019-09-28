@@ -20,8 +20,11 @@ end
 division(50, 2)
 
 def multiplication(num1, num2)
+  num1 * num2
 
 end
+
+multiplication(4, 30)
 
 def modulo(num1, num2)
 
